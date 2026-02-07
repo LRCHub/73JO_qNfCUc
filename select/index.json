@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "The Wave",
+  "base_artist": "Miike Snow",
+  "createdAt": "2026-02-07T12:07:46.126447Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ride The Wave",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/01_Ride_The_Wave_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slave to the Wave",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/02_Slave_to_the_Wave_Placebo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Wave (feat. Uno Freaky)",
+      "artist": "Lil Gotit",
+      "has_synced": false,
+      "path": "select/03_The_Wave_(feat._Uno_Freaky)_Lil_Gotit.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Wave",
+      "artist": "Lil Gotit, Uno Freaky",
+      "has_synced": false,
+      "path": "select/04_The_Wave_Lil_Gotit,_Uno_Freaky.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Generate the Wave",
+      "artist": "Living In a Box",
+      "has_synced": false,
+      "path": "select/05_Generate_the_Wave_Living_In_a_Box.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Wave",
+      "artist": "Monarchy",
+      "has_synced": false,
+      "path": "select/06_The_Wave_Monarchy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Wave",
+      "artist": "Elohim",
+      "has_synced": true,
+      "path": "select/07_The_Wave_Elohim.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crest of the Wave",
+      "artist": "Foals",
+      "has_synced": true,
+      "path": "select/08_Crest_of_the_Wave_Foals.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Some People Ride The Wave",
+      "artist": "Devendra Banhart",
+      "has_synced": true,
+      "path": "select/09_Some_People_Ride_The_Wave_Devendra_Banhart.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Have to Ride the Wave",
+      "artist": "Himanshu feat. Danny Brown & Mr. Muthafuckin' eXquire",
+      "has_synced": false,
+      "path": "select/10_You_Have_to_Ride_the_Wave_Himanshu_feat._Danny_Brown_&_Mr._Muthafuckin'_eXquire.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Have to Ride the Wave (Feat. Danny Brown & Mr. Muthafuckin Exquire)",
+      "artist": "Himanshu",
+      "has_synced": false,
+      "path": "select/11_You_Have_to_Ride_the_Wave_(Feat._Danny_Brown_&_Mr._Muthafuckin_Exquire)_Himanshu.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Wave",
+      "artist": "Tanya Donelly",
+      "has_synced": false,
+      "path": "select/12_The_Wave_Tanya_Donelly.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Wave",
+      "artist": "Miike Snow",
+      "has_synced": true,
+      "path": "select/13_The_Wave_Miike_Snow.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Wave",
+      "artist": "Amplifier",
+      "has_synced": true,
+      "path": "select/14_The_Wave_Amplifier.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Wave (Mixed)",
+      "artist": "R3HAB",
+      "has_synced": true,
+      "path": "select/15_The_Wave_(Mixed)_R3HAB.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Wave",
+      "artist": "R3HAB",
+      "has_synced": false,
+      "path": "select/16_The_Wave_R3HAB.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Wave",
+      "artist": "Baha Men",
+      "has_synced": false,
+      "path": "select/17_The_Wave_Baha_Men.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Under The Wave",
+      "artist": "Erasure",
+      "has_synced": true,
+      "path": "select/18_Under_The_Wave_Erasure.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Wave",
+      "artist": "Miike Snow",
+      "has_synced": false,
+      "path": "select/pl_01_The_Wave_Miike_Snow.txt"
+    }
+  ]
+}
